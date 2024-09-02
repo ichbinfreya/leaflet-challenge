@@ -40,7 +40,7 @@ project-directory/
     git clone https://github.com/leaflet-challenge.git
     ```
 2. **Ensure Correct File Structure**: Make sure your project files match the structure shown above.
-3. **Open index.html**: Open `[index.html](https://ichbinfreya.github.io/leaflet-challenge/)` in any modern web browser to view the map.
+3. **Open index.html**: Open [index.html](https://ichbinfreya.github.io/leaflet-challenge/) in any modern web browser to view the map.
 
 ## Usage
 1. **View the Map**: The webpage displays a world map with markers representing recent earthquakes.
